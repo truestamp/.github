@@ -1,9 +1,9 @@
 ## Truestamp 👋
 
 
-### Blockchain commitments of data timestamp, integrity, and provenance
+### About Us
 
-Truestamp is committed to providing verifiable, blockchain backed cryptographic commitments of the provenance, timestamp, and authenticity of your most valued digital assets.
+Truestamp is committed to providing verifiable commitments of the provenance, timestamp, and authenticity of your most valued digital assets.
 
 ### Learn More
 
