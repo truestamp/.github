@@ -3,7 +3,7 @@
 
 ### About Us
 
-Truestamp is provides a platform to create and verify commitments of the provenance, timestamp, and authenticity of your most valued digital assets.
+Truestamp provides a platform to create and verify commitments of the provenance, timestamp, and authenticity of your most valued digital assets.
 
 ### Learn More
 
