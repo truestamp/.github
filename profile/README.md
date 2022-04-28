@@ -9,7 +9,8 @@ Truestamp provides a platform to create and verify commitments of the provenance
 
 * [Homepage](https://www.truestamp.com)
 * [Docs](https://docs.truestamp.com)
-* [GitHub Repositories](https://github.com/orgs/truestamp/repositories)
+* [Repositories](https://github.com/orgs/truestamp/repositories)
+* [Discussions](https://github.com/orgs/truestamp/discussions)
 
 ### Contact Us
 
