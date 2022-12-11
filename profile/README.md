@@ -11,7 +11,7 @@ Please visit our community [issues](https://github.com/truestamp/hub/issues) pag
 
 * [Homepage](https://www.truestamp.com)
 * [Issues](https://github.com/truestamp/hub/issues)
-* [Discussions](https://github.com/truestamp/hub/discussions)
+* [Discussions](https://github.com/orgs/truestamp/discussions)
 * [Repositories](https://github.com/orgs/truestamp/repositories)
 * [Public Roadmap](https://github.com/orgs/truestamp/projects/1/views/2)
 * [Documentation](https://docs.truestamp.com)
