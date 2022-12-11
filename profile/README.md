@@ -5,11 +5,13 @@
 
 Truestamp provides a platform to create and verify commitments of the provenance, timestamp, and authenticity of your most valued digital assets.
 
+Please visit our community [issues](https://github.com/truestamp/hub/issues) page if you are experiencing what you believe to be a bug, or to provide feedback.
+
 ### Learn More
 
 * [Homepage](https://www.truestamp.com)
-* [Issues](https://github.com/orgs/truestamp/hub)
-* [Discussions](https://github.com/orgs/truestamp/hub)
+* [Issues](https://github.com/truestamp/hub/issues)
+* [Discussions](https://github.com/truestamp/hub/discussions)
 * [Repositories](https://github.com/orgs/truestamp/repositories)
 * [Public Roadmap](https://github.com/orgs/truestamp/projects/1/views/2)
 * [Documentation](https://docs.truestamp.com)
