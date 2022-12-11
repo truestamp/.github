@@ -10,7 +10,7 @@ Please visit our community [issues](https://github.com/truestamp/hub/issues) pag
 ### Learn More
 
 * [Homepage](https://www.truestamp.com)
-* [Issues](https://github.com/truestamp/hub/issues)
+* [Issues](https://github.com/truestamp/discussions/issues)
 * [Discussions](https://github.com/orgs/truestamp/discussions)
 * [Repositories](https://github.com/orgs/truestamp/repositories)
 * [Public Roadmap](https://github.com/orgs/truestamp/projects/1/views/2)
