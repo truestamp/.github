@@ -5,7 +5,7 @@
 
 Truestamp provides a platform to create and verify commitments of the provenance, timestamp, and authenticity of your most valued digital assets.
 
-Please visit our community [issues](https://github.com/truestamp/hub/issues) page if you are experiencing what you believe to be a bug, or to provide feedback.
+Please visit our community [issues](https://github.com/truestamp/discussions/issues) page if you are experiencing what you believe to be a bug, or to provide feedback.
 
 ### Learn More
 
