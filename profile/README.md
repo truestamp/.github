@@ -20,6 +20,10 @@ Please file a [new issue](https://github.com/truestamp/discussions/issues) if yo
 
 Please note that all use of the Truestamp service, the issues tracker, or public discussions, is governed by the Truestamp [Code of Conduct](https://github.com/truestamp/discussions/blob/main/CODE_OF_CONDUCT.md) and [Privacy Policy](https://www.truestamp.com/policies) and your participation indicates acceptance of those policies.
 
+### Contributing
+
+We welcome contributions to our open source repositories. You can find guidlines for doing so in our [contributing](https://github.com/truestamp/discussions/blob/main/CONTRIBUTING.md) page.
+
 ### Security
 
 To report any security vulnerabilities please contact us at [security@truestamp.com](mailto:security@truestamp.com)
