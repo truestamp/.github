@@ -5,7 +5,11 @@
 
 [Truestamp](https://www.truestamp.com) provides a platform that lets you create commitments that attest to the timestamp, integrity, and provenance of your most important data by cryptographically binding it to public blockchains.
 
+### Experiencing an Issue?
+
 Please file a [new issue](https://github.com/truestamp/discussions/issues) if you are experiencing what you believe to be a bug, or if you would like to to provide feedback.
+
+You can also reach us via email at [support@truestamp.com](mailto:support@truestamp.com)
 
 ### Learn More
 
@@ -18,19 +22,15 @@ Please file a [new issue](https://github.com/truestamp/discussions/issues) if yo
 
 ### Privacy Policy & Code of Conduct
 
-Please note that all use of the Truestamp service, the issues tracker, or public discussions, is governed by the Truestamp [Code of Conduct](https://github.com/truestamp/discussions/blob/main/CODE_OF_CONDUCT.md) and [Privacy Policy](https://www.truestamp.com/policies) and your participation indicates acceptance of those policies.
+Please note that all use of Truestamp services, including the issues tracker and public discussions, are governed by the Truestamp [Code of Conduct](https://github.com/truestamp/discussions/blob/main/CODE_OF_CONDUCT.md) and [Privacy Policy](https://www.truestamp.com/policies) and your participation indicates acceptance of those policies.
 
 ### Contributing
 
-We welcome contributions to our open source repositories. You can find guidlines for doing so in our [contributing](https://github.com/truestamp/discussions/blob/main/CONTRIBUTING.md) page.
+We welcome contributions to our open source repositories. You can find guidlines for doing so in our [CONTRIBUTING.md](https://github.com/truestamp/discussions/blob/main/CONTRIBUTING.md) page.
 
 ### Security
 
-To report any security vulnerabilities please contact us at [security@truestamp.com](mailto:security@truestamp.com)
-
-The authoritative location to access our `ed25519` digital signature public keys can be found at:
-
-[https://keys.truestamp.com/](https://keys.truestamp.com/)
+Please refer to our [SECURITY.md](https://github.com/truestamp/discussions/blob/main/SECURITY.md) guide for instructions for how best to contact us to report security issues. We thank you for alerting us to any such issues.
 
 ### Contact Us
 
