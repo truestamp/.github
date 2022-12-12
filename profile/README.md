@@ -20,6 +20,16 @@ You can also reach us via email at [support@truestamp.com](mailto:support@truest
 * [Public Roadmap](https://github.com/orgs/truestamp/projects/1/views/2)
 * [Documentation](https://docs.truestamp.com)
 
+### Social
+
+- [Blog](https://blog.truestamp.com/)
+- Twitter [@truestamp](https://twitter.com/truestamp)
+- [Discord](https://discord.gg/vQgKEEu)
+
+### Site Status
+
+If you are experiencing any es with access to Truestamp services please check our [site status](https://status.truestamp.com/) page.
+
 ### Privacy Policy & Code of Conduct
 
 Please note that all use of Truestamp services, including the issues tracker and public discussions, are governed by the Truestamp [Code of Conduct](https://github.com/truestamp/discussions/blob/main/CODE_OF_CONDUCT.md) and [Privacy Policy](https://www.truestamp.com/policies) and your participation indicates acceptance of those policies.
