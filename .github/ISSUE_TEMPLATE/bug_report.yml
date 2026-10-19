@@ -1,0 +1,52 @@
+# Default bug report form for every Truestamp repository that doesn't have its
+# own .github/ISSUE_TEMPLATE folder.
+
+name: Bug Report
+description: Report a problem with this Truestamp project
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to file a report.
+
+        If this is a suggestion rather than something broken, [the feedback board](https://truestamp.userjot.com/board/features) is the better home. Ideas there are votable and show up on the [roadmap](https://truestamp.userjot.com/roadmap). Posting needs a UserJot account; the Feedback popup on [truestamp.com/support](https://www.truestamp.com/support) doesn't.
+
+        **Don't report security vulnerabilities here.** Follow the [security policy](https://github.com/truestamp/.github/blob/main/SECURITY.md) instead. Please don't paste API keys, private keys, or data you consider sensitive.
+
+  - type: textarea
+    id: version
+    attributes:
+      label: Version and environment
+      description: The version of this project (a release, tag or commit), your OS and architecture, and the version of any runtime or tool it runs on.
+      placeholder: |
+        Version: v0.1.0 (or commit abc1234)
+        OS: macOS 26.1, arm64
+        Runtime: Elixir 1.19.3 / OTP 28
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: What you did
+      description: The steps, code or command that trigger the problem. A minimal reproduction is ideal. Redact anything sensitive.
+    validations:
+      required: true
+
+  - type: textarea
+    id: happened
+    attributes:
+      label: What happened, and what you expected instead
+      description: Include the full error message or output.
+      render: shell
+    validations:
+      required: true
+
+  - type: textarea
+    id: more
+    attributes:
+      label: Anything else
+      description: |
+        Optional. Whether it's consistent or intermittent, an unusual network (proxy, firewall), or the ID of the item, proof, block, beacon or entropy record involved. A ULID or UUIDv7 lets us correlate with server-side logs.

@@ -1,5 +1,6 @@
 # Default issue chooser for every Truestamp repository that doesn't have its
-# own .github/ISSUE_TEMPLATE folder.
+# own .github/ISSUE_TEMPLATE folder. truestamp-cli keeps its own copy with the
+# same links, apart from the security URL: keep the two in step.
 
 blank_issues_enabled: true
 contact_links:
@@ -11,9 +12,13 @@ contact_links:
     url: https://truestamp.userjot.com/board/features
     about: Suggest and vote on ideas, and see what's already been asked for. To post without a UserJot account, use the Feedback popup at truestamp.com/support.
 
+  - name: Roadmap and release updates
+    url: https://truestamp.userjot.com/roadmap
+    about: What's planned, in progress, and recently shipped.
+
   - name: Security vulnerability
     url: https://github.com/truestamp/.github/blob/main/SECURITY.md
-    about: Please report security issues privately, not as a public issue.
+    about: Please report security issues privately, not as a public issue. See SECURITY.md.
 
   - name: Help using Truestamp
     url: https://www.truestamp.com/support
