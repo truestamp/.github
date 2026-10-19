@@ -1,6 +1,10 @@
 # Default issue chooser for every Truestamp repository that doesn't have its
 # own .github/ISSUE_TEMPLATE folder. truestamp-cli keeps its own copy with the
-# same links, apart from the security URL: keep the two in step.
+# same links: keep the two in step.
+#
+# There is no security link here. Private vulnerability reporting is on in
+# every repository with Issues enabled, and GitHub then adds its own "Report a
+# security vulnerability" entry to the chooser.
 
 blank_issues_enabled: true
 contact_links:
@@ -15,10 +19,6 @@ contact_links:
   - name: Roadmap and release updates
     url: https://truestamp.userjot.com/roadmap
     about: What's planned, in progress, and recently shipped.
-
-  - name: Security vulnerability
-    url: https://github.com/truestamp/.github/blob/main/SECURITY.md
-    about: Please report security issues privately, not as a public issue. See SECURITY.md.
 
   - name: Help using Truestamp
     url: https://www.truestamp.com/support
