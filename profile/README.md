@@ -7,9 +7,7 @@
 
 ### Experiencing an Issue?
 
-Please file a [new issue](https://github.com/truestamp/discussions/issues) if you are experiencing what you believe to be a bug, or if you would like to to provide feedback.
-
-You can also reach us via email at [support@truestamp.com](mailto:support@truestamp.com)
+If you think you've found a bug, please open an issue in the repository it relates to, or in [truestamp/discussions](https://github.com/truestamp/discussions/issues/new/choose) if you're not sure which one. For questions, start a [discussion](https://github.com/orgs/truestamp/discussions). For product ideas and feedback, use our [feedback board](https://truestamp.userjot.com/board/features).
 
 ### Learn More
 
@@ -27,17 +25,17 @@ You can also reach us via email at [support@truestamp.com](mailto:support@truest
 
 Please note that all use of Truestamp services, including the issues tracker and public discussions, are governed by the Truestamp policies and your participation indicates acceptance of those policies.
 
-- [Code of Conduct](https://github.com/truestamp/discussions/blob/main/CODE_OF_CONDUCT.md)
+- [Code of Conduct](https://github.com/truestamp/.github/blob/main/CODE_OF_CONDUCT.md)
 - [Privacy Policy](https://www.truestamp.com/privacy-policy)
 - [Terms of Service](https://www.truestamp.com/terms-of-service)
 
 ### Contributing
 
-We welcome contributions to our open source repositories. You can find guidelines for doing so in our [CONTRIBUTING.md](https://github.com/truestamp/discussions/blob/main/CONTRIBUTING.md) page.
+We welcome contributions to our open source repositories. You can find guidelines for doing so in our [CONTRIBUTING.md](https://github.com/truestamp/.github/blob/main/CONTRIBUTING.md) page.
 
 ### Security
 
-Please refer to our [SECURITY.md](https://github.com/truestamp/discussions/blob/main/SECURITY.md) guide for instructions for how best to contact us to report security issues. We thank you for alerting us to any such issues.
+Please refer to our [SECURITY.md](https://github.com/truestamp/.github/blob/main/SECURITY.md) guide for instructions for how best to contact us to report security issues. We thank you for alerting us to any such issues.
 
 ### Contact Us
 
